@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+category-encoders
+joblib
+openpyxl
+plotly
+matplotlib
+seaborn
+notebook
+ipykernel
+jupyterlab
